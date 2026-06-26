@@ -16,25 +16,14 @@
 
 ## 💻 About Me
 
-```lua
-local MrHavoc = {
-    role = "Owner @ Lurnai Hub",
-    languages = {
-        "Lua",
-        "Python"
-    },
-    experience = "2 Years",
+Hey! I'm **MrHavoc**, the owner of **Lurnai Hub**.
 
-    interests = {
-        "Roblox",
-        "UI",
-        "Optimization",
-        "Automation"
-    }
-}
+I started coding around **2 years ago**, with **Wraith1286** being one of the people who inspired and taught me when I was first getting into development. Since then, I've been constantly learning, experimenting with new ideas, and building projects to improve my skills in **Lua** and **Python**.
 
-return MrHavoc
-```
+Outside of coding, I enjoy **watching anime**, **listening to music**, and learning about new technologies. I'm always interested in discovering new things, meeting different people, and hearing their stories and perspectives.
+
+I believe there's always something new to learn, and every project is another chance to grow as a developer.
+
 
 ---
 
