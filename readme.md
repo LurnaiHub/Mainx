@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://media.tenor.com/ayS39J6O4YAAAAAi/wave.gif" width="32"> MrHavoc
+# <img src="https://media.tenor.com/TQ3Jul8r2DwAAAAC/anime-boy.gif" width="32"> MrHavoc
 
 ### Owner of **Lurnai Hub**
 
